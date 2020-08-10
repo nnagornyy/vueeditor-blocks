@@ -1,0 +1,11 @@
+{
+  "name": "Блок контакты",
+  "type": "aboutContact",
+  "conf" : {
+    "foo": "bar",
+    "other": "some",
+    "array": [
+      "one", "two", "three"
+    ]
+  }
+}
